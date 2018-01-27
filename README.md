@@ -1,3 +1,9 @@
+Welcome to the Hackathon  2018.1 identity api service
+
+
+This project involves the service consumption part of the Identity API, in which through a menu of options, the service is selected by which you want to make use of the identification of the person, you must place the QR code in front of to the camera of the computer so that the personal data of the person being identified is shown.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
